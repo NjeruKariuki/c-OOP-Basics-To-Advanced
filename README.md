@@ -1,5 +1,5 @@
 # c-OOP-Basics-To-Advanced
-This project includes a compilation of source code from 9 online lessons of c++ object oriented programming paradigm. The code is well commented to help you understand what is done. NOTE: you might need some basic c++ knowledge to take full advantage of this compilation. ENJOY!!
+This project includes a compilation of source code from 9 online lessons of c++ object oriented programming paradigm. The code is well commented to help you understand what is done.
 
 #### HOW TO USE THESE FILES #######
 $$$ --SOURCE CODE-- $$$
